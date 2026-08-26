@@ -15,6 +15,7 @@
 | [0001-two-sum](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
