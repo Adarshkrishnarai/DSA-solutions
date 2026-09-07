@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
@@ -33,6 +35,7 @@
 | [0169-majority-element](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
@@ -46,10 +49,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -67,4 +72,16 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Adarshkrishnarai/DSA-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
